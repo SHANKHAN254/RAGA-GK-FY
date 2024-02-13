@@ -1,3 +1,7 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=LONG LIVE+🕊️GK-FY; YOU+ARE+FYS+PROPERTY;LOVE+YOU+GK;FROM+FY🕊️;ENJOY+YOUR+DAY+WITH+GK-FY🕊️;POWERED+BY+SHANK-FY🕊️" alt="Typing SVG" /></a>
+  </p>
+
 # _Raganork-multi-device_
 ## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
   
