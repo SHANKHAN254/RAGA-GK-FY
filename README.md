@@ -16,7 +16,7 @@
 
 ## Deploy to Heroku ↓
 
-<a href="https://heroku.com/deploy?template=https://github.com/SHANKHAN254/RAGA-GK-FY" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://github.com/SHANKHAN254/RAGA-GK-FY/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/SHANKHAN254/RAGA-GK-FY" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
